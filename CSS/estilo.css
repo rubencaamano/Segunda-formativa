@@ -1,0 +1,13 @@
+header{ width: 100%;height: 91px;background-color: chocolate; display: block}
+footer{width: 100%; height:100pX;background-color: rgba(10, 10, 10, 0.637);}
+main { width: 100%; height: auto; margin: 80px auto 0 auto; float: none; position: relative; }
+
+main section#video-youtube iframe {left:450px;float: none;position: relative;padding-top:50px;}
+
+main section#mapa-googlemaps iframe {left:450px;float: none;position: relative;padding-top:50px;}
+
+main section#banner-video-html5 video {left:450px; float: none;position: relative;padding-top:50px;}
+
+main section#banner-video-html5-loop-muted figure{left:410px;float:none;position: relative;padding-top:50px;}
+
+main section#galeria-imagenes article nav a img {left:200px;display: inline-block;width: auto; height: auto; margin: 10px; scroll-padding-inline-start: 20px; float: none; position: relative; filter: saturate(1.3); transition: all 0.3s ease-in;border-radius: 10px;}
